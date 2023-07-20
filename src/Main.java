@@ -56,4 +56,4 @@ public class Main {
 }
 
 
-/** 기본, 기본 ok / 기본, 수정( ) ok / 수정, 기본 No / 수정, 수정 ok(super) */
+/** 기본, 기본 ok / 기본, 수정( ) ok / 수정, 기본 No / 수정, 수정 (super) ok */
